@@ -6,7 +6,7 @@ Hier findest Du alle relevante Materialien zum Science Camp Informatik 2017 am K
 
 ## Vorlesungsmaterial
 
-* [1-1: HTML - Erklärung](https://sciencecampinformatik.github.io/2017/assets/demo/tag1/index.html)
+* [1-1: HTML - Erklärung](https://sciencecampinformatik.github.io/2017/assets/demo/tag1)
 * 1-1: HTML - Demo
 * 1-2: CSS - Erklärung
 * 1-2: CSS - Demo
