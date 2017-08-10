@@ -19,6 +19,9 @@ Hier findest Du alle relevante Materialien zum Science Camp Informatik 2017 am K
 * [Bildergalerie - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/bildergalerie/bildergalerie.html)
 * [Geburtstagskalender - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/geburtstags.pdf)
 * [Geburtstagskalender - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/geburtstagskalender/geburtstag.html)
+* [ASCII Art Generator - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/ascii.pdf)
+* [ASCII Art Generator - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/ascii)
+* * [ASCII Art Generator - alphabet.js](https://sciencecampinformatik.github.io/2017/assets/demo/ascii/alphabet.js)
 * Maps - Aufgabenstellung
 * [Maps - Demo 01: Basis](https://sciencecampinformatik.github.io/2017/assets/demo/map/01_base/map.html)
 * [Maps - Demo 02: Routing](https://sciencecampinformatik.github.io/2017/assets/demo/map/02_routing/map.html)
