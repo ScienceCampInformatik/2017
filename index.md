@@ -18,7 +18,7 @@ Hier findest Du alle relevante Materialien zum Science Camp Informatik 2017 am K
 * [Bildergalerie - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/bildergalerie.pdf)
 * [Bildergalerie - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/bildergalerie/bildergalerie.html)
 * [Geburtstagskalender - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/geburtstags.pdf)
-* [Geburtstagskalender - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/geburtagskalender/Geburtstags.html)
+* [Geburtstagskalender - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/geburtstagskalender/geburtstag.html)
 * Maps - Aufgabenstellung
 * [Maps - Demo 01: Basis](https://sciencecampinformatik.github.io/2017/assets/demo/map/01_base/map.html)
 * [Maps - Demo 02: Routing](https://sciencecampinformatik.github.io/2017/assets/demo/map/02_routing/map.html)
