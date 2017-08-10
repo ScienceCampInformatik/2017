@@ -14,12 +14,12 @@ Hier findest Du alle relevante Materialien zum Science Camp Informatik 2017 am K
 ## Aufgaben des Web-Workshops
 
 * [Uhr - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/uhr.pdf)
-* Uhr - Demo
+* [Uhr - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/uhr)
 * [Bildergalerie - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/bildergalerie.pdf)
-* Bildergalerie - Demo
+* [Bildergalerie - Demo] (https://sciencecampinformatik.github.io/2017/assets/demo/bildergalerie)
 * [Geburtstagskalender - Aufgabenstellung](https://sciencecampinformatik.github.io/2017/assets/docs/aufgaben/geburtstags.pdf)
-* Geburtstagskalender - Demo
+* [Geburtstagskalender - Demo](https://sciencecampinformatik.github.io/2017/assets/demo/geburtagskalender)
 * Maps - Aufgabenstellung
-* Maps - Demo 01: Basis
-* Maps - Demo 02: Routing
-* Maps - Demo 03: Routing Loop
+* [Maps - Demo 01: Basis](https://sciencecampinformatik.github.io/2017/assets/demo/map/01_base)
+* [Maps - Demo 02: Routing](https://sciencecampinformatik.github.io/2017/assets/demo/map/02_routing)
+* [Maps - Demo 03: Routing Loop]](https://sciencecampinformatik.github.io/2017/assets/demo/map/03_routing_loop)
