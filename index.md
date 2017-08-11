@@ -4,6 +4,9 @@ Wilkommen auf der Website zum Science Camp Informatik 2017.
 
 Hier findest Du alle relevante Materialien zum Science Camp Informatik 2017 am KIT.
 
+## Umfrage
+* [Umfrage](https://www.surveymonkey.de/r/sciencecamp17) 
+
 ## Vorlesungsmaterial
 
 * [1: HTML&CSS - Erklärung](https://sciencecampinformatik.github.io/2017/assets/demo/tag1)
